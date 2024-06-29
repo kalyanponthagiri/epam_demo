@@ -1,3 +1,6 @@
 This the edited text file
 And i am adding the new text
 This is the new text line for testing purpose
+
+For testing the new git GUI interface.
+I am adding two new lines.
